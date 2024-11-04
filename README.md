@@ -35,4 +35,4 @@ If you want a better example, check out the default paths.txt and the JostExampl
 
 - Largely inspired by THDP
 - Can only use PNGs currently (may add support for other file formats later, it shouldn't be too hard)
-- Every PNG needs to have the same dimensions or else the program will squish them (default is 64x64 and cannot currently be changed by the )
+- Every PNG needs to have the same dimensions or else the program will squish them (default is 64x64 and cannot currently be changed yet)
